@@ -1,5 +1,6 @@
 Flask
 tensorflow
+gunicorn
 numpy
 pillow
-gdown
+werkzeug
